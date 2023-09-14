@@ -52,9 +52,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you have any questions or suggestions, please feel free to reach out:
 
-- Email: your@email.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/claudiojpj/)
-- GitHub: [Your GitHub Profile](https://github.com/claudiojpj/)
+- Email: claudiojpj@gmail.com
+- LinkedIn: [claudiojpj](https://www.linkedin.com/in/claudiojpj/)
+- GitHub: [claudiojpj](https://github.com/claudiojpj/)
 
 ## Acknowledgments
 
