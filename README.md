@@ -25,13 +25,9 @@ To run this project, you'll need the following dependencies:
 ### Installation
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/gasoline-price-prediction.git
+   git clone https://github.com/claudiojpj/gasoline-price-prediction.git
    ```
-2. Install Python packages:
-   ```
-   pip install -r requirements.txt
-   ```
-3. Set up Apache Airflow as per your requirements.
+2. Set up Apache Airflow as per your requirements.
 
 ## Usage
 
